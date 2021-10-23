@@ -8,24 +8,24 @@ import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';
 
 const IMAGE_URL = `https://thekusuma.com/static/slide-6-4715e29302dbaa2ba21494c6258298d4.jpg`;
-const META_DESCRIPTION = `Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan keberkahan. - Pawit & Zilda`;
+const META_DESCRIPTION = `Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan keberkahan. - Zilda & Pawit`;
 
 function MainLayout({ children }) {
   return (
     <Fragment>
       <Helmet>
-        <title>Dinda ❤️ Indra Wedding</title>
+        <title>Zilda ❤️ Pawit Wedding</title>
 
         {/* Favicon */}
         <link rel="icon" type="image/png" href={Favicon} />
 
         {/* font and SEO tags */}
-        <meta property="og:title" content="The Wedding of Pawit & Zilda" />
+        <meta property="og:title" content="The Wedding of Zilda & Pawit" />
         <meta property="og:image" content={IMAGE_URL} />
         <meta property="og:url" content="https://thekusuma.com" />
-        <meta property="og:site_name" content="The Wedding of Pawit & Zilda" />
+        <meta property="og:site_name" content="The Wedding of Zilda & Pawit" />
         <meta property="og:description" content={META_DESCRIPTION} />
-        <meta name="twitter:title" content="The Wedding of Pawit & Zilda" />
+        <meta name="twitter:title" content="The Wedding of Zilda & Pawit" />
         <meta name="twitter:description" content={META_DESCRIPTION} />
         <meta name="twitter:image" content={IMAGE_URL} />
         <meta name="twitter:url" content="https://thekusuma.com" />

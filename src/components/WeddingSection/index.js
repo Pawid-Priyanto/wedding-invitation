@@ -10,7 +10,7 @@ function WeddingSection({ isInvitation }) {
     return (
       <Fragment>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="Akad Nikah" time="08.00 WIB (Live di Instagram)" date="Sabtu, 03 Oktober 2020" />
+          <WeddingInfoBox title="Akad Nikah" time="09.00 WIB (Live di Kediaman Mempelai Wanita)" date="Minggu, 07 November 2021" />
         </div>
         <ButtonLive />
       </Fragment>
