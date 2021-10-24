@@ -11,7 +11,7 @@ function ButtonLive() {
         <a href="https://goo.gl/maps/w9UeDpKYbJsnJv6v7" target="_blank" rel="noreferrer">
           <div css={styButtonWrapper}>
             <div className="img__wrapper">
-              <img src={IconIg} alt="Live IG" />
+              <img src={IconIg} alt="Lokasi Acara" />
               <span>LOKASI ACARA</span>
             </div>
           </div>
