@@ -40,8 +40,8 @@ function FooterSection({ isInvitation }) {
                 </small>
                 <small className="block">
                   Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=fb167KAxvrg" target="_blank" rel="noreferrer">
-                    Anandito Anisa - Pernikahan Impian
+                  <a href="https://www.youtube.com/watch?v=oIYWenB637c" target="_blank" rel="noreferrer">
+                  Pamungkas - To The Bone
                   </a>
                 </small>
                 <small className="block">

@@ -8,5 +8,6 @@ export const GOOGLE_MAPS_LINK = `https://g.page/HARRISHotelSentralandSemarang?sh
  * Wedding time
  */
 export const EPOCH_START_EVENT = 1613952139;
-export const EPOCH_END_EVENT = 1613952139;
+// export const EPOCH_END_EVENT = 1613952139;
+export const EPOCH_END_EVENT = 1913952139;
 export const UTC_WEDDING_TIME = '2021-11-07:04:00:00Z';

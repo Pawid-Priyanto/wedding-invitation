@@ -1,12 +1,12 @@
 import { css } from '@emotion/core';
-import Background from '@assets/images/bg-wedding.jpg';
+import Background from '@assets/images/bg-welcome.jpg';
 
 export const styWrapper = css`
   background-image: url(${Background});
   background-size: cover;
   background-position: center;
   width: 100%;
-  min-height: 70vh;
+  min-height: 90vh;
   color: #fff !important;
 
   .bismillah {

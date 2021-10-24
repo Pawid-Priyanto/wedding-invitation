@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
 import { bool } from 'prop-types';
 
-import Bride from '@assets/images/p-dinda-2.jpg';
-import Groom from '@assets/images/p-indra.jpg';
+import Bride from '@assets/images/zilda1.jpg';
+import Groom from '@assets/images/pawit1.jpg';
 
 import { styWrapper } from './styles';
 
@@ -30,7 +30,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Zildah Humaidah, S.E.</h3>
+                <h3 className="main-font">Zildah Humaidah</h3>
                 <p className="parent-name parent-name__top">
                   Putri Bapak H. Kasih <br />& Ibu Hj. Nur Hayati
                 </p>
