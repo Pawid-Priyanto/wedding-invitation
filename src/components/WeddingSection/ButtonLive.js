@@ -1,6 +1,6 @@
 import React from 'react';
 
-import IconIg from './assets/instagram.png';
+import IconIg from './assets/img_maps.png';
 import { styButtonWrapper } from './styles';
 
 function ButtonLive() {
@@ -8,11 +8,11 @@ function ButtonLive() {
     <div className="row">
       <div className="col-md-12">
         <p className="text__live">Hadir secara langsung di kediaman mempelai wanita: </p>
-        <a href="https://www.instagram.com/zildahhumaidah/" target="_blank" rel="noreferrer">
+        <a href="https://maps.app.goo.gl/qvbMF9T5SQdzBFUc9" target="_blank" rel="noreferrer">
           <div css={styButtonWrapper}>
             <div className="img__wrapper">
               <img src={IconIg} alt="Live IG" />
-              <span>@zildahhumaidah</span>
+              <span>LOKASI ACARA</span>
             </div>
           </div>
         </a>
