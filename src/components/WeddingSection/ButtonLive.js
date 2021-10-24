@@ -8,7 +8,7 @@ function ButtonLive() {
     <div className="row">
       <div className="col-md-12">
         <p className="text__live">Hadir secara langsung di kediaman mempelai wanita: </p>
-        <a href="https://maps.app.goo.gl/qvbMF9T5SQdzBFUc9" target="_blank" rel="noreferrer">
+        <a href="https://goo.gl/maps/w9UeDpKYbJsnJv6v7" target="_blank" rel="noreferrer">
           <div css={styButtonWrapper}>
             <div className="img__wrapper">
               <img src={IconIg} alt="Live IG" />
