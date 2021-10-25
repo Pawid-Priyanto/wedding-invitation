@@ -19,7 +19,6 @@ function useDateCountdown() {
   const [isEventOver, setIsEventOver] = useState(0);
 
   const calculateTimeLeft = useCallback(() => {
-    console.log(currentEpochTime, 'ansjnaklfj');
     
     const TIME_LEFT = EPOCH_START_EVENT - currentEpochTime;
 
