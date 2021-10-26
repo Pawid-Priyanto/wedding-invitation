@@ -1,8 +1,9 @@
 import { css } from '@emotion/core';
 import Background from '@assets/images/bg-welcome.jpg';
+let bg = 'https://imgshare.io/images/2021/10/25/bg-welcome.jpg';
 
 export const styWrapper = css`
-  background-image: url(${Background});
+  background-image: url(${bg});
   background-size: cover;
   background-position: center;
   width: 100%;

@@ -1,5 +1,6 @@
 import { css, keyframes } from '@emotion/core';
 import Background from '@assets/images/bg-wedding.jpg';
+let bg = 'https://imgshare.io/images/2021/10/25/bg-wedding.jpg'
 
 export const styHero = css`
   width: 100%;
@@ -122,7 +123,7 @@ export const styScrollWrapper = css`
 
 export const styBackground = css`
   background-size: cover;
-  background-image: url(${Background});
+  background-image: url(${bg});
   background-position: center;
   width: 100%;
   height: 100%;
