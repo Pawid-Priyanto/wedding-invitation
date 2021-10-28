@@ -32,12 +32,12 @@ function FooterSection({ isInvitation }) {
             <div className="col-md-12 text-center">
               <p>
                 <small className="block">&copy; 2021 Zilda & Pawit Wedding. All Rights Reserved.</small>
-                <small className="block">
+                {/* <small className="block">
                   Covid-19 Icon by{' '}
                   <a href="https://www.flaticon.com/packs/covid-protection-measures-5" target="_blank" rel="noreferrer">
                     Flat Icon - Frepik
                   </a>
-                </small>
+                </small> */}
                 <small className="block">
                   Song by{' '}
                   <a href="https://www.youtube.com/watch?v=oIYWenB637c" target="_blank" rel="noreferrer">
