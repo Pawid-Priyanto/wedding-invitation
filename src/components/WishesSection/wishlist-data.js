@@ -82,7 +82,7 @@ export const wishlist = [
     name: 'Nicolaus Lawe',
     infoName: 'Rekan Kerja Pawit',
     description: 'Selamat Untuk bang Pawit dan istri, jika ada rezeki semoga bisa menambah istri lagi ya bang.',
-    iamge: Lawe
+    image: Lawe
   }
   
 ];
