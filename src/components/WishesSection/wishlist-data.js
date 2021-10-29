@@ -9,7 +9,7 @@ import Bila from '@assets/images/bila.jpeg';
 import Fitri from '@assets/images/fitri.jpeg';
 import Wulan from '@assets/images/wulan.jpeg';
 import devi from '@assets/images/devi.jpeg';
-
+import Lawe from '@assets/images/lawe.jpeg';
 
 export const wishlist = [
   {
@@ -77,6 +77,12 @@ export const wishlist = [
     infoName: 'Sahabat Kuliah Zilda',
     description: 'Zil & paw selamat cepak cepak jedar 11 anak HARUSSSS fightinggg 💪🏻💪🏻💪🏻🥰',
     image: devi,
+  },
+  {
+    name: 'Nicolaus Lawe',
+    infoName: 'Rekan Kerja Pawit',
+    description: 'Selamat Untuk bang Pawit dan istri, jika ada rezeki semoga bisa menambah istri lagi ya bang.',
+    iamge: Lawe
   }
   
 ];
