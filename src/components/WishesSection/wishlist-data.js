@@ -10,6 +10,8 @@ import Fitri from '@assets/images/fitri.jpeg';
 import Wulan from '@assets/images/wulan.jpeg';
 import devi from '@assets/images/devi.jpeg';
 import Lawe from '@assets/images/lawe.jpeg';
+import Mondi from '@assets/images/mondi.jpeg';
+import brandal from '@assets/images/brandal.jpeg';
 
 export const wishlist = [
   {
@@ -31,10 +33,22 @@ export const wishlist = [
     image: ariska,
   },
   {
+    name: 'Bangun Suprobo',
+    infoName: 'Sahabat Kuliah Pawit',
+    description: "Pembuktian cinta sejati adalah dengan menikah bukan dengan coklat Selamat buat akhi pawit dan ukhti zilda Semoga lancar sampai H Dan semoga setelah Akad dikumandangkan menjadi keluarga yang sakinah mawaddah warahmah Barakallahu laka wabaraka alayka wajamaa' baynakuma fii khoir",
+    image: Mondi,
+  },
+  {
     name: 'Eka',
     infoName: 'Sahabat Kuliah Zilda',
     description: "Barakallahu laka wa baraka alaika wa jamaa baina kuma fii khoir. Semoga menjadi keluarga yang sakinah mawaddah warohmah ya zildah my best friend dan suami.  Aamiin ❤❤",
     image: Eka,
+  },
+  {
+    name: 'Muhamad Ari Probowo',
+    infoName: 'Konco Kentel Pawit',
+    description: 'Selamat Menempuh Hidup Baru',
+    image: brandal,
   },
   {
     name: 'Bila',
@@ -62,7 +76,7 @@ export const wishlist = [
   },
   {
     name: 'Rapi',
-    infoName: 'Sahabat SMA Zilda',
+    infoName: 'Sahabat SMP Zilda',
     description: 'Selamat ceu, Lancar sampai hari H dan dimudahkan segala urusannya. Semoga kalian bisa jadi pasangan yang saling mengerti satu sama lain, pasangan yang saling menguatkan apapun masalah yang nanti akan kalian hadapin, dan juga semoga rumah tangga kalian selalu diberkahi dan dirahmati sama Allah SWT',
     image: Rapi,
   },
