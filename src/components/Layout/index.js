@@ -7,7 +7,7 @@ import '@assets/css/icomoon.css';
 import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';
 
-const IMAGE_URL = `https://thekusuma.com/static/slide-6-4715e29302dbaa2ba21494c6258298d4.jpg`;
+const IMAGE_URL = `https://imgshare.io/images/2021/10/25/bg-welcome.jpg`;
 const META_DESCRIPTION = `Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan keberkahan. - Zilda & Pawit`;
 
 function MainLayout({ children }) {
