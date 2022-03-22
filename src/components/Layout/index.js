@@ -26,6 +26,9 @@ function MainLayout({ children }) {
         <meta property="og:site_name" content="The Wedding of Zilda & Pawit" />
         <meta property="og:description" content={META_DESCRIPTION} />
         <meta name="twitter:title" content="The Wedding of Zilda & Pawit" />
+        <meta name="description" content="website undangan pernikahan" />
+        <meta name="keywords" content="udangan pernikahan Pawit & Zilda" />
+        <meta name="author" content="Pawit" />
         <meta name="twitter:description" content={META_DESCRIPTION} />
         <meta name="twitter:image" content={IMAGE_URL} />
         <meta name="twitter:url" content="https://pawitpriyanto.com" />
