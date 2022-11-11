@@ -3,7 +3,7 @@ import Background from '@assets/images/bg-welcome.jpg';
 let bg = 'https://imgshare.io/images/2021/10/25/bg-welcome.jpg';
 
 export const styWrapper = css`
-  background-image: url(${bg});
+  background-image: url(${Background});
   background-size: cover;
   background-position: center;
   width: 100%;
